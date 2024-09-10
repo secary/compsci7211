@@ -135,34 +135,34 @@ Create the branches branch1 and branch2, then add, move, remove & modify the fil
 main
 
 .
-├── dir1
-│   └── dir2
-│       └── foo
-├── dir3
-│   ├── bar
-│   └── bar_copy
-├── LICENSE
-└── README.md 
+├── dir1  
+│   └── dir2  
+│       └── foo  
+├── dir3  
+│   ├── bar  
+│   └── bar_copy  
+├── LICENSE  
+└── README.md   
 branch1
 
 .
-├── dir1
-│   └── foo
-├── dir3
-│   └── bar
-├── LICENSE
-├── newfile1
-└── README.md 
+├── dir1  
+│   └── foo  
+├── dir3  
+│   └── bar  
+├── LICENSE  
+├── newfile1  
+└── README.md   
 branch2
 
 .
-├── dir1
-│   ├── dir2
-│   │   └── foo_modified
-│   └── dir3
-│       └── newfile2
-├── LICENSE
-└── README.md 
+├── dir1  
+│   ├── dir2  
+│   │   └── foo_modified  
+│   └── dir3  
+│       └── newfile2  
+├── LICENSE  
+└── README.md   
 Be sure to commit your changes to each branch.
 
 After you've tested and verified your commands, save the sequence of commands  (excluding the clone command) in a file named question17.sh
