@@ -4,3 +4,4 @@ cd b1t2
 touch file1.txt
 git add .
 git commit -m "created file1"
+git push origin main
