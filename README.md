@@ -134,7 +134,7 @@ Clone the GitHub repository https://github.com/ian-knight-uofa/git-practice-03.g
 Create the branches branch1 and branch2, then add, move, remove & modify the files to match the configurations shown below:
 main
 
-.
+.  
 ├── dir1  
 │   └── dir2  
 │       └── foo  
@@ -145,7 +145,7 @@ main
 └── README.md   
 branch1
 
-.
+.  
 ├── dir1  
 │   └── foo  
 ├── dir3  
@@ -155,7 +155,7 @@ branch1
 └── README.md   
 branch2
 
-.
+.  
 ├── dir1  
 │   ├── dir2  
 │   │   └── foo_modified  
