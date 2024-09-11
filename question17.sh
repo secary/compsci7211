@@ -1,5 +1,4 @@
 #！/bin/bash
-cd git-practice-03
 git fetch origin
 git checkout main
 git branch branch1
