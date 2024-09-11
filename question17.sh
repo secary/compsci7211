@@ -14,7 +14,6 @@ git checkout branch1
 mv dir2/foo dir1
 mv dir1/dir2/foo dir1
 rm -r dir1/dir2
-rm LICENSE
 touch newfile1
 git add .
 git commit -m "moved and created files"
