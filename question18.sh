@@ -17,6 +17,6 @@ git branch -r -d origin/ready3
 
 #update branches
 git checkout origin/update1
-git pull --rebase origin main
+git merge origin/main
 git checkout origin/update2
-git pull --rebase origin update2
+git merge origin/main
