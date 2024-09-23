@@ -1,9 +1,9 @@
-1
-two
-3
-Four
-5
-SIX
-7
-4+4
 9
+4+4
+7
+SIX
+5
+Four
+3
+two
+1
