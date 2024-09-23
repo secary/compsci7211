@@ -1,0 +1,2 @@
+Another day, another file.
+It also has two lines.
