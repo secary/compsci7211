@@ -9,7 +9,7 @@ Git and Github
 ## b1t3 
 Python testing and debugging
 ## b2t4 S
-tructured data
+Structured data
 ## b2t5
 Numpy and Pandas
 ## b2t6 
