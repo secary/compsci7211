@@ -8,7 +8,7 @@ Unix and shell
 Git and Github
 ## b1t3 
 Python testing and debugging
-## b2t4 S
+## b2t4 
 Structured data
 ## b2t5
 Numpy and Pandas
