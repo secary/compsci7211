@@ -1,16 +1,41 @@
-# COMPSCI 7211
-A git repo for COMP SCI 7211 Found of Comp Science B in Tri3, 2024
-Python and shell files
+# COMPSCI 7211, Tri3, 2024
+Foundations of Computer Science B
 
-## b1t1 
-Unix and shell
-## b1t2 
-Git and Github
-## b1t3 
-Python testing and debugging
-## b2t4 
-Structured data
-## b2t5
-Numpy and Pandas
-## b2t6 
-Test driven development
+## SECTION B1
+Programming Environment & Configuration
+### Topic 1
+Unix & The Shell
+### Topic 2
+Git
+### Topic 3
+Debugging
+ 
+
+## SECTION B2
+Programming Tools & Techniques
+### Topic 4
+Files
+### Topic 5
+Data Science Libraries
+### Topic 6
+Refactoring & TDD
+ 
+
+## SECTION B3
+Algorithms & Complexity
+### Topic 7
+Algorithms
+### Topic 8
+Sorting
+### Topic 9
+Searching
+ 
+
+## SECTION B4
+Data Structures & Algorithms
+### Topic 10
+Graphs
+### Topic 11
+Searching Graphs
+### Topic 12
+Trees
