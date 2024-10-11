@@ -1,5 +1,5 @@
-# COMPSCI 7211, Tri3, 2024
-Foundations of Computer Science B
+# COMP SCI 7211, Tri3, 2024
+[Foundations of Computer Science B](https://www.adelaide.edu.au/course-outlines/110023/1/tri-3/)
 
 ## SECTION B1
 Programming Environment & Configuration
