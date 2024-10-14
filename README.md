@@ -1,5 +1,6 @@
 # COMP SCI 7211, Tri3, 2024
-[Foundations of Computer Science B](https://www.adelaide.edu.au/course-outlines/110023/1/tri-3/)
+## [Foundations of Computer Science B](https://www.adelaide.edu.au/course-outlines/110023/1/tri-3/)
+Introduces fundamental concepts of building data science applications in Python. Object oriented fundamentals x001A methods, and classes. Algorithms and problem solving - problem solving processes and strategies. Computational complexity of algorithms. Software development tools and techniques - testing: black box, requirements. Representation and manipulation of large scale data sets.
 
 ## SECTION B1
 Programming Environment & Configuration
